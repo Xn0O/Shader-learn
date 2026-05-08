@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GrassTEST_0
+  m_Shader: {fileID: 4800000, guid: 560e57cf8aa63d34e9444bc02964120f, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 8a76eb89af2a87549872666d7c79f2bc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MapTex:
+        m_Texture: {fileID: 2800000, guid: 9e10c26d4d82b0c4992161b7df471286, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Cutoff: 0.5
+    - _MapSize: 300
+    - _PushPow: 1
+    - _PushRadius: 2
+    - _QueueOffset: 0
+    - _ShadowThreshold: 0
+    - _WindPow: 20
+    - _WindSpeed: 3
+    m_Colors:
+    - _MapPos: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _PlayerPos: {r: 0, g: 0, b: 0, a: 0}
+    - _ShadowColor: {r: 0.16553934, g: 0.17185129, b: 0.2264151, a: 1}
+    - _WindDir: {r: 1, g: 0.5, b: 0, a: 0}
+  m_BuildTextureStacks: []
